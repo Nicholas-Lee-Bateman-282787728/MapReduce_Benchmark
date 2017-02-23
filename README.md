@@ -1,7 +1,6 @@
-## MapReduce_Benchmark
+#MapReduce_Benchmark
 
-#Benchmarking MapReduce Implementations on the Amazon Web Services
-Elastic Compute Cloud
+##Benchmarking MapReduce Implementations on the Amazon Web Services Elastic Compute Cloud
 
 Chris Patrick, Tim Schroeder, Aksheetha Sridhar, Megan Stiles
 
