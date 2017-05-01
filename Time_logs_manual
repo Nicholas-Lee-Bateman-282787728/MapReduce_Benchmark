@@ -1,0 +1,13 @@
+2- m4.xlarge node cluster
+
+INFO RandomForest: Internal timing for DecisionTree:
+17/05/01 17:32:46 INFO RandomForest:   init: 13.126436545
+  total: 17.553700254
+  findSplits: 2.921981888
+  findBestSplits: 4.395922294
+  chooseSplits: 4.387185784
+
+17/05/01 17:20:53 INFO KMeans: Iterations took 2418.223 seconds.
+17/05/01 17:20:53 INFO BlockManagerInfo: Removed broadcast_30_piece0 on 172.31.70.247:41108 in memory (size: 1752.0 B, free: 6.4 GB)
+17/05/01 17:20:53 INFO KMeans: KMeans reached the max number of iterations: 10.
+17/05/01 17:20:53 INFO KMeans: The cost is 3.54071657016893E14.  
