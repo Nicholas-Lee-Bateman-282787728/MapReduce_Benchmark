@@ -41,7 +41,7 @@ if __name__=="__main__":
 	#Random Forest Code
 	data = MLUtils.loadLibSVMFile(sc, "s3://ccdatauvamsds2017/YearPredictionMSD")
 
-	data_sample = data.sample(True, 10, 1234)
+	data_sample = data.sample(True, 50, 1234)
 
 	start_time = timeit.default_timer()
 
